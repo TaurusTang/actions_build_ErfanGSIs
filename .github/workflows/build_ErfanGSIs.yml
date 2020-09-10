@@ -8,7 +8,7 @@ env:
   ROM_URL: http://bigota.d.miui.com/20.9.4/miui_MIMAX3_20.9.4_21e974cc03_10.0.zip
   ROM_NAME: MIUI
   BUILD_AB: true
-  BUILD_AONLY: true
+  BUILD_AONLY: false
   ROM_AONLY: MIUI_Aonly.7z
   ROM_AB: miui_ab.7z
 
